@@ -119,6 +119,8 @@ instance/
 
 # Scrapy stuff:
 .scrapy
+*.pdf
+*.ipynb_checkpoints
 
 # Sphinx documentation
 docs/_build/
